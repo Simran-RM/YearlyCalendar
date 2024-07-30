@@ -1,3 +1,3 @@
 # YearlyCalendar
 Yearly calendar using JS, HTML, CSS
-Deployed version : https://stackdevpro.github.io/YearlyCalendar/
+Deployed version : https://simran-rm.github.io/YearlyCalendar/
